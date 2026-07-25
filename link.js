@@ -1,4 +1,6 @@
 function link() {location.replace("/");}
+function linksobet88() {location.replace("https://changelink.online/gdsbobet");}
+//
 function linkqqjago() {location.replace("https://www.qqjago.id/");}
 function linkalibababet() {location.replace("https://rebrand.ly/f4c4ba/");}
 function linkmagnum188() {location.replace("https://jali.me/magnum188-link");}
