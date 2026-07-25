@@ -1,5 +1,5 @@
 function link() {location.replace("/");}
-function linksobet88() {location.replace("https://changelink.online/gdsbobet");}
+function linksobet88() {location.replace("https://sobet88hkgc.cyou/");}
 //
 function linkqqjago() {location.replace("https://www.qqjago.id/");}
 function linkalibababet() {location.replace("https://rebrand.ly/f4c4ba/");}
