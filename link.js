@@ -2,6 +2,7 @@ function link() {location.replace("/");}
 function linksobet88() {location.replace("https://sobet88hkgc.cyou/");}
 function linkcoin303() {location.replace("https://promotornya.pages.dev/0sewa1/");}
 //
+function linkqqmobile() {location.replace("https://t.ly/qqmobil");}
 function linkqqjago() {location.replace("https://www.qqjago.id/");}
 function linkalibababet() {location.replace("https://rebrand.ly/f4c4ba/");}
 function linkmagnum188() {location.replace("https://jali.me/magnum188-link");}
