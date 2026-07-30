@@ -2,7 +2,7 @@ function link() {location.replace("/");}
 function linksobet88() {location.replace("https://sobet88hkgc.cyou/");}
 function linkcoin303() {location.replace("https://promotornya.pages.dev/0sewa1/");}
 //
-function linkbetviva() {location.replace("https://www.qqviva04.com/");}
+function linkviva() {location.replace("https://www.qqviva04.com/");}
 function linkqqmobil() {location.replace("https://t.ly/qqmobil");}
 function linkqqjago() {location.replace("https://www.qqjago.id/");}
 function linkalibababet() {location.replace("https://rebrand.ly/f4c4ba/");}
