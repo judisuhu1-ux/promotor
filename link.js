@@ -1,7 +1,7 @@
 function link() {location.replace("/");}
 function linksobet88() {location.replace("https://sobet88hkgc.cyou/");}
 function linkcoin303() {location.replace("https://promotornya.pages.dev/0sewa1/");}
-function linknekojp883() {location.replace("https://promotornya.pages.dev/0sewa1/");}
+function linknekojp88() {location.replace("https://promotornya.pages.dev/0sewa1/");}
 function linkhokicuan303(){location.replace("https://promotornya.pages.dev/0sewa1//");}
 function linkmega38(){location.replace("https://promotornya.pages.dev/0sewa1/");}
 function linkfifa234(){location.replace("https://promotornya.pages.dev/0sewa1//");}
