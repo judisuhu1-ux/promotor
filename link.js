@@ -1,10 +1,10 @@
 function link() {location.replace("/");}
 function linksobet88() {location.replace("https://sobet88hkgc.cyou/");}
 function linkcoin303() {location.replace("https://promotornya.pages.dev/0sewa1/");}
-function linkhokicuan303(){location.replace("https://mampirdulu.pages.dev/");}
-function linkmega38(){location.replace("https://mampirdulu.pages.dev/");}
-function linkfifa234(){location.replace("https://mampirdulu.pages.dev/");}
-function linkstarbet178(){location.replace("https://mampirdulu.pages.dev/");}
+function linkhokicuan303(){location.replace("https://promotornya.pages.dev/0sewa1//");}
+function linkmega38(){location.replace("https://promotornya.pages.dev/0sewa1/");}
+function linkfifa234(){location.replace("https://promotornya.pages.dev/0sewa1//");}
+function linkstarbet178(){location.replace("https://promotornya.pages.dev/0sewa1/");}
 //
 function linkqqviva() {location.replace("https://www.qqviva04.com/");}
 function linkqqmobil() {location.replace("https://t.ly/qqmobil");}
